@@ -2,7 +2,7 @@
 
 ## Week 1: Introduction to Python Programming
 
-**Theory ** Python is a high-level programming language that supports variables, data types, operators, conditions, and loops for controlling program flow. It provides the foundation for all advanced data science tasks.
+Python is a high-level programming language that supports variables, data types, operators, conditions, and loops for controlling program flow. It provides the foundation for all advanced data science tasks.
 
 **Concepts Learned:**
 
@@ -25,7 +25,7 @@
 
 ## Week 2: Data Structures and Functions
 
-**Theory ** Data structures organize and store data efficiently, while functions help reuse logic and make code modular. Together, they allow scalable and structured programming.
+Data structures organize and store data efficiently, while functions help reuse logic and make code modular. Together, they allow scalable and structured programming.
 
 **Concepts Learned:**
 
@@ -49,7 +49,7 @@
 
 ## Week 3: NumPy and Pandas for Data Manipulation
 
-**Theory ** NumPy provides powerful tools for numerical computation with arrays, while Pandas allows structured data manipulation using DataFrames and Series. They are the backbone of data analysis workflows.
+NumPy provides powerful tools for numerical computation with arrays, while Pandas allows structured data manipulation using DataFrames and Series. They are the backbone of data analysis workflows.
 
 **Concepts Learned:**
 
@@ -72,7 +72,7 @@
 
 ## Week 4: Data Visualization with Matplotlib and Seaborn
 
-**Theory ** Data visualization helps interpret patterns, trends, and insights from data using graphical representations. Matplotlib and Seaborn are powerful Python libraries for creating informative plots.
+Data visualization helps interpret patterns, trends, and insights from data using graphical representations. Matplotlib and Seaborn are powerful Python libraries for creating informative plots.
 
 **Concepts Learned:**
 
